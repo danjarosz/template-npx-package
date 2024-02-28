@@ -1,0 +1,14 @@
+{
+  "name": "template-npx-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npm publish"
+  },
+  "author": "",
+  "license": "MIT",
+  "bin": {
+    "template-npx-package": "bin/install.mjs"
+  }
+}
